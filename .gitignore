@@ -1,0 +1,5 @@
+node_modules/
+backend/data_db/
+.env
+.env.*
+!.env.example
