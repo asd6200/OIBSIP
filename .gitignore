@@ -1,0 +1,5 @@
+node_modules/
+backend/data_db/
+frontend/dist/
+.env
+**/.env
